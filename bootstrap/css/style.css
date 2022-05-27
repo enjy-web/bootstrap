@@ -1,0 +1,106 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #aaa;
+}
+a{
+  color:#ccccff !important;
+
+}
+a:hover{
+  color:white;
+}
+ code{
+   font-size:135%;
+
+ }
+ .navbar{
+   background-color: black;
+ }
+ /* Start Navbar  */
+.nav-item  .dropdown-menu .dropdown-item :hover{
+   color: #aaa;
+}
+  /* End Navbar  */
+/* /////////////////////////////////////////////////////////////// */
+/* Start carousel */
+.carousel-inner img{
+width: 100wh;
+height: 100vh;
+position: relative;
+}
+.carousel-inner h1{
+  text-shadow: 1px 1px #000;  
+}
+h1{
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+.carousel-inner .carousel-caption{
+    background-color: rgba(200,200,200,0.3);
+    border-radius: 7px;
+}
+
+/* End carousel */
+/* ////////////////////////////////////////////////////////////////// */
+ /* Start Jumbotron */
+
+ /*End Jumbotron  */
+ /* /////////////////////////////////////////////////////////////// */
+
+ /* Start Good basic */
+
+  /* End Good basic */
+.button:hover{
+  color:red;
+}
+ hr{
+ 
+   background-color: #777;
+   color:grey;
+ }
+ .fixedimg1{
+   background-color: #777;
+ }
+ /* Start collapse */
+.card-header:hover{
+  background-color: black; 
+  color:white;
+}
+
+.btn1:hover{
+  border:none;
+  color:white;
+}
+
+  /* Start collapse */
+  /* ////////////////////////////////////////////////////////////// */
+  .fixedimg1{
+    width:100%;
+    background-image: url(../images/5.jpg);
+  }
+  .fixedimg {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+}
+  /* ////////////////////////////////////////////////////////////// */
+  .fixedimg2{
+    width:100%;
+    background-image: url(../images/7.jpg);
+  }
+  .fixedimg2 {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+}
+.text-info-code{
+  color:#0dcaf0;
+}
+
+/* start Footer */
+
+/* End Footer */
